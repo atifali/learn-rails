@@ -49,7 +49,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'activerecord-tableless'
 gem 'compass-rails', '~> 2.0.2'
 gem "figaro", "~> 0.7.0"
-gem 'gibbon'
+gem 'gibbon',  '~>1.2.0'
 gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
